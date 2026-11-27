@@ -1,3 +1,9 @@
+bogentag-dial (0.4.2) unstable; urgency=medium
+
+  * Correct sunrise and sunset by up to 90 s near the date line
+
+ -- David M. Anderson <david.anderson@excelano.com>  Fri, 27 Nov 2026 17:40:38 -0600
+
 bogentag-dial (0.4.1) unstable; urgency=medium
 
   * Installs alongside the bogentag package, which now installs the dial, the calendar and the GNOME extension together
