@@ -530,9 +530,9 @@ checksum = "776dfebd015e2d8732c684a2c71003674ccb49457b539b9e82151ba38e96dd7c"
 
 [[package]]
 name = "bz"
-version = "0.7.1"
+version = "0.7.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "205399e753b327842f09cafb7a68c25cd374c28f9cc6c9e2f9215317d373d7b4"
+checksum = "9678db09416ad8f9885e1067c0449b88b848162e99493b11aaf7480a8dda4404"
 
 [[package]]
 name = "calloop"
